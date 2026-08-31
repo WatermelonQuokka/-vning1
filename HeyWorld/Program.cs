@@ -24,3 +24,20 @@ bool isDeveloper = true;
 // Console.WriteLine("Jag heter " + name + "!");
 Console.WriteLine($"Jag heter {name} och är {age} år gammal!");
 Console.WriteLine($"Jag är {height} meter lång.");
+
+// if and a condition within parenthesis that is true
+// for example the boolean value true
+// makes the code in the program block {...}
+// if the if-statement execute
+if(isDeveloper)
+{
+    Console.WriteLine("Jag är utvecklare.");
+    Console.WriteLine("Det är jättekul att utveckla");
+}
+// else after an if-statement exectues if the condition
+// in the if-statement is false
+else
+{
+    Console.WriteLine("Jag är inte utvecklare.");
+    Console.WriteLine("Jag kan inget om programmering.");
+} 
