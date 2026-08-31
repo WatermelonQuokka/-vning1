@@ -45,7 +45,9 @@ if (!double.TryParse(heightAsString, out double height))
     Console.WriteLine("Eftersom vi inte uppfattade din längd räknar vi med att du är 0,5 m");
 }
 
-bool isDeveloper = true;
+
+// only declares boolean isDeveloper
+bool isDeveloper = false;
 
 
 // Alternative to string interpolation
@@ -56,10 +58,36 @@ Console.WriteLine($"Jag heter {name} och är {age} år gammal!");
 Console.WriteLine($"Om 10 år så är jag {age + 10} år gammal!");
 Console.WriteLine($"Jag är {height} meter lång.");
 
+bool answeredYesOrNo = false;
+
+Console.WriteLine("Är du en utvecklare? Ja/Nej ");
+
+string? askIfIsDeveloper = Console.ReadLine();
+
+// set value to isDeveloper
+
+if (askIfIsDeveloper?.ToLower() =="ja")
+{
+    isDeveloper = true;
+    answeredYesOrNo = true;
+}
+else if (askIfIsDeveloper?.ToLower() =="nej")
+{
+    isDeveloper = false;
+    answeredYesOrNo = false;
+}
+else
+{
+    answeredYesOrNo = false;
+    Console.WriteLine("Jag förstår inte.");
+}
+
 // if and a condition within parenthesis that is true
 // for example the boolean value true
 // makes the code in the program block {...}
 // if the if-statement execute
+if(answeredYesOrNo)
+{
 if(isDeveloper)
 {
     Console.WriteLine("Jag är utvecklare.");
@@ -72,4 +100,4 @@ else
     Console.WriteLine("Jag är inte utvecklare.");
     Console.WriteLine("Jag kan inget om programmering.");
 } 
-
+}
