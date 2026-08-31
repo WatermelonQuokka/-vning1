@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\bin\Debug\net10.0\HeyWorld.exe
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\bin\Debug\net10.0\HeyWorld.deps.json
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\bin\Debug\net10.0\HeyWorld.runtimeconfig.json
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\bin\Debug\net10.0\HeyWorld.dll
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\bin\Debug\net10.0\HeyWorld.pdb
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\obj\Debug\net10.0\HeyWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\obj\Debug\net10.0\HeyWorld.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\obj\Debug\net10.0\HeyWorld.AssemblyInfo.cs
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\obj\Debug\net10.0\HeyWorld.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\obj\Debug\net10.0\HeyWorld.dll
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\obj\Debug\net10.0\refint\HeyWorld.dll
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\obj\Debug\net10.0\HeyWorld.pdb
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\obj\Debug\net10.0\HeyWorld.genruntimeconfig.cache
+C:\Users\danie\Documents\MAI26\Övning1\HeyWorld\obj\Debug\net10.0\ref\HeyWorld.dll
